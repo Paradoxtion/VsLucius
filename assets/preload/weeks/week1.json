@@ -1,0 +1,44 @@
+{
+	"storyName": "...",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"...",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"im sorry boyfriend",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"please... help me",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1",
+	"hiddenUntilUnlocked": false
+}

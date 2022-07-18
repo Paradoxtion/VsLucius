@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lucius_meme.png">
+<SubTexture name="lucius_meme idle0000" x="516" y="920" width="516" height="453" frameX="-42" frameY="-13" frameWidth="862" frameHeight="466" />
+<SubTexture name="lucius_meme idle0001" x="520" y="0" width="504" height="456" frameX="-42" frameY="-10" frameWidth="862" frameHeight="466" />
+<SubTexture name="lucius_meme idle0002" x="0" y="920" width="516" height="453" frameX="-42" frameY="-13" frameWidth="862" frameHeight="466" />
+<SubTexture name="lucius_meme idle0003" x="0" y="466" width="526" height="454" frameX="-42" frameY="-12" frameWidth="862" frameHeight="466" />
+<SubTexture name="lucius_meme left0000" x="1024" y="0" width="507" height="454" frameX="-42" frameY="-12" frameWidth="862" frameHeight="466" />
+<SubTexture name="lucius_meme down0000" x="1531" y="409" width="516" height="370" frameX="-42" frameY="-96" frameWidth="862" frameHeight="466" />
+<SubTexture name="lucius_meme right0000" x="1531" y="0" width="532" height="409" frameX="-42" frameY="-57" frameWidth="862" frameHeight="466" />
+<SubTexture name="lucius_meme up0000" x="0" y="0" width="520" height="466" frameX="-42" frameY="0" frameWidth="862" frameHeight="466" />
+</TextureAtlas>

@@ -1,0 +1,43 @@
+{
+	"storyName": "",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Boyfriend",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Ima go to the restroom",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Meet me outside ok?",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}

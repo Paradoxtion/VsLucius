@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				-245
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "lucius_meme idle"
+		},
+		{
+			"offsets": [
+				53,
+				-235
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "lucius_meme left"
+		},
+		{
+			"offsets": [
+				-28,
+				-245
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "lucius_meme right"
+		},
+		{
+			"offsets": [
+				-6,
+				-249
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": false,
+			"name": "lucius_meme idle"
+		},
+		{
+			"offsets": [
+				51,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": false,
+			"name": "lucius_meme left"
+		},
+		{
+			"offsets": [
+				-29,
+				-245
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": false,
+			"name": "lucius_meme right"
+		},
+		{
+			"offsets": [
+				-1,
+				-225
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": false,
+			"name": "lucius_meme up"
+		},
+		{
+			"offsets": [
+				8,
+				-234
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": false,
+			"name": "lucius_meme down"
+		},
+		{
+			"offsets": [
+				0,
+				-226
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "lucius_meme up"
+		},
+		{
+			"offsets": [
+				9,
+				-232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "lucius_meme down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lucius_meme",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
